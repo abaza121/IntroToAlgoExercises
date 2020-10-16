@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray4.1-3", "IntroToAlgoExercises\MaximumSubArray4.1-3.csproj", "{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {866D0F55-5D62-4591-A6DD-5E215DB157B9}
+	EndGlobalSection
+EndGlobal
