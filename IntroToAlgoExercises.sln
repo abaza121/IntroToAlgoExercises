@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray4.1-3", "IntroToAlgoExercises\MaximumSubArray4.1-3.csproj", "{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubArray4.1-3", "IntroToAlgoExercises\MaximumSubArray4.1-3.csproj", "{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication4.2", "MatrixMultiplication\MatrixMultiplication4.2.csproj", "{0753301A-8234-4392-9C04-E1F377261DEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35FD0D3-27CF-4F51-87EE-BD645B5140B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0753301A-8234-4392-9C04-E1F377261DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0753301A-8234-4392-9C04-E1F377261DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0753301A-8234-4392-9C04-E1F377261DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0753301A-8234-4392-9C04-E1F377261DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
